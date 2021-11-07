@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @feligarcia
-- 👀 I’m interested in learning, colaborate, 
-- 🌱 I’m currently learning data sciencie & python
+- 👋 Hi,Hola I’m @feligarcia
+- 👀 I’m interested in learning, colaborate, and support great projects. 
+- 🌱 I’m currently learning front-end, data sciencie & python.
 - 💞️ I’m looking to collaborate on interactive teams
 - 📫 How to reach me >> pending
 
