@@ -1,7 +1,7 @@
 
 # **Hi,Hola! I’m @feligarcia**
 
-## I'm a junior front end developer, learning from academyGeek. I have skills in:
+## I'm a Junior React Developer, learning from academyGeek. I have skills in:
 
  - [x] HTML, CSS, Vanilla Javascript
  - [x] JSON
