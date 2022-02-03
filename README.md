@@ -13,7 +13,6 @@ I studied mining engineering but I have always been a Geek!. I have an interest 
 [Here you can see my LinkedIn Profile](https://www.linkedin.com/in/jufgarciagi/)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/jufgarciagi/)
 
-[![Linkedin](https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png)](https://www.linkedin.com/in/jufgarciagi/)
 
 ## Featured works :round_pushpin: :star:
 ### Guappjolotas :coffee: :new:
