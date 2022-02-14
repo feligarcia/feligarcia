@@ -4,6 +4,7 @@
 ## I'm a Junior React Developer, learning from academyGeek. I have skills in:
 
  - [x] ReactJS
+ - [x] Redux, Firebase 
  - [x] HTML, CSS, Vanilla Javascript
  - [x] JSON 
  - [x] API REST
