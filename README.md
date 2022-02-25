@@ -18,7 +18,7 @@ I studied mining engineering but I have always been a Geek!. I have an interest 
 ## Featured works :round_pushpin: :star:
 ### BlocMaster - Movie app :cinema: :arrow_forward: :new:
 Movie app developed in ReactJS, with Redux and thunk middleware. Integration with Firebase Authentication and Cloud Firestore. Images saved with Cloudinary. User location with google maps API.
-[Repositorie](https://github.com/feligarcia/spring3-blocmaster) | [Deployment](https://github.com/feligarcia/spring3-blocmaster)
+[Repositorie](https://github.com/feligarcia/spring3-blocmaster) | [Deployment](https://feligarcia.github.io/spring3-blocmaster/)
 ### Guappjolotas :coffee:
 Guajalotas store in ReactJS, with API consumption in fetch & axios, login & sing up page in localstorage and API validation.
 [Repositorie](https://github.com/feligarcia/Sprint2-GuappjolotasF7) | [Deployment](https://feligarcia.github.io/Sprint2-GuappjolotasF7/)
