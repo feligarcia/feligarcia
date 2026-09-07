@@ -27,5 +27,3 @@ I'm a passionate about AI and its potential to revolutionize the world. I specia
 ### Contratos.co
 
 Aplicación para revisar requisitos de contratistas en Colombia, próximamente buscado de procesos en secop [contratos.co](https://contratos.co)
-
-Ver más en [felipedev.online](https://felipedev.online)
